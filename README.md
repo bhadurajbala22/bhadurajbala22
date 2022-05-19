@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Rajbala Bhadu</h1>
 <h3 align="center">A Computer Science student</h3>
-<p align="left"> <img src="https://www.kindpng.com/picc/m/258-2583224_-female-technologist-emoji-woman-technologist-emoji.png" height="200" width="250" /> </p>
+<p align="left"> <img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" height="200" width="250" /> </p>
 
 
 
