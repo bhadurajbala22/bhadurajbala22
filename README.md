@@ -1,15 +1,12 @@
 <h1 align="center">Hi there 👋, I'm Rajbala Bhadu</h1>
 <h3 align="center">A Computer Science student</h3>
-<p align="left"> <img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" height="200" width="250" /> </p>
-
-
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1894420/screenshots/14032021/media/a85f637f1eb4cd5efdd307f9760472a1.gif">
 
 - 👩🏻‍💻About me
-- A 2nd year B.Tech CS student 
-- I’m currently exploring web development 
+- A 3rd year B.Tech CS student 
+- I’m interested in Open-Source & everything tech.
 
-- 📫 How to reach me **rajbalabhadu3@gmail.com**
+- 📫 How to reach me *rajbalabhadu3@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
