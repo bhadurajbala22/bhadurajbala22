@@ -13,7 +13,7 @@
 <a href="https://linkedin.com/in/rajbala-bhadu-966760211" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2037/PNG/512/in_linked_linkedin_media_social_icon_124259.png" alt="rajbala-bhadu-966760211" height="25" width="25" /></a>
 <a href="https://instagram.com/bhadu_rajbala.22" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.JtmXSh_uyZBaTg1eXd-NtgHaHa?pid=ImgDet&rs=1" alt="bhadu_rajbala.22" height="25" width="25" /></a>
 <a href="https://www.hackerrank.com/rajbalabhadu22" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.aiEgvLjGCcSQTDnU42f8SAHaHa?pid=ImgDet&rs=1" alt="rajbalabhadu22" height="30" width="30" /></a>
-<a href="https://www.leetcode.com/rajbalabhadu22" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo.png" alt="rajbalabhadu22" height="30" width="30" /></a>
+<!--<a href="https://www.leetcode.com/rajbalabhadu22" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo.png" alt="rajbalabhadu22" height="30" width="30" /></a>-->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
